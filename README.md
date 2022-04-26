@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shravan PM</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
+<img align = "right" alt = "coding" width = "400" src = "https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
+
 - 👨‍💻 All of my projects are available at [shravan-portfolio.com](shravan-portfolio.com)
 
 - 💬 Ask me about **JavaScript, React**
