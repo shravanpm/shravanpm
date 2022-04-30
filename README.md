@@ -8,7 +8,7 @@
 <p align="left">  Aspiring full-stack web developer and specialized in MERN stack. Passionate about writing clean, elegant, and efficient code using HTML, JavaScript, CSS, nodeJS. </p>
 - 👨‍💻 All of my projects are available at [shravan-portfolio](**<a targer="_blank" href="https://shravan-pm-portfolio.netlify.app">Portfolio</a>**)
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **JavaScript, React, HTML, Redux, DSA**
 
 - 📫 How to reach me **shravan.pm@yahoo.com**
 
