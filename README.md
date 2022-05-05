@@ -22,7 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shravanpm&show_icons=true&locale=en" alt="shravanpm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shravanpm&show_icons=true&locale=en" alt="shravanpm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravanpm&" alt="shravanpm" /></p>
 
