@@ -19,7 +19,7 @@
 - :dancers: I’m looking to collaborate on Linkedin.
 - :speech_balloon: Ask me about MERN related stuffs.
 - 📫 You can reach me at *mailsofshravan@gmail.com*
-- 👨‍💻 Visit my portfolio at:- *https://shravan-pm.vercel.app/*
+- 👨‍💻 Visit my portfolio at:- *https://shravan-pm.vercel.app*
 <!-- - 🤔: I’m looking for help with developing AI skills.. -->
 <br/> <br/>
 
