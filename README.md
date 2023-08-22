@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [shravan-portfolio](**<a targer="_blank" href="https://shravan-pm.vercel.app">Portfolio</a>**)
 
 ## About Me
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 <b>Motivated and efficient Full-stack web developer</b> with a history of education in B.Tech in Electronics and communication engineering and interested in coding. Working with MERN Stack and programming languages like JavaScript, TypeScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
 <br/>
 <br/>
