@@ -6,7 +6,6 @@
 
 <img align = "right" alt = "coding" width = "400" src = "https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 <p align="left">  Aspiring full-stack web developer and specialized in MERN stack. Passionate about writing clean, elegant, and efficient code using HTML, JavaScript, CSS, nodeJS. </p>
-- 👨‍💻 All of my projects are available at [shravan-portfolio](**<a targer="_blank" href="https://shravan-pm.vercel.app">Portfolio</a>**)
 
 ## About Me
 
@@ -19,8 +18,8 @@
 - :seedling: I’m learning *MERN Stack and other web development tools*.
 - :dancers: I’m looking to collaborate on Linkedin.
 - :speech_balloon: Ask me about MERN related stuffs.
-- 📫 You can reach me at *ajaymaurya6798@gmail.com*
-- 👨‍💻 Visit my portfolio at:- *https://portfolio-ajay-maury.vercel.app/*- 
+- 📫 You can reach me at *mailsofshravan@gmail.com*
+- 👨‍💻 Visit my portfolio at:- *https://shravan-pm.vercel.app/*- 
 <!-- - 🤔: I’m looking for help with developing AI skills.. -->
 <br/> <br/>
 
