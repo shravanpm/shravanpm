@@ -8,7 +8,21 @@
 <p align="left">  Aspiring full-stack web developer and specialized in MERN stack. Passionate about writing clean, elegant, and efficient code using HTML, JavaScript, CSS, nodeJS. </p>
 - 👨‍💻 All of my projects are available at [shravan-portfolio](**<a targer="_blank" href="https://shravan-pm.vercel.app">Portfolio</a>**)
 
-- 💬 Ask me about **JavaScript, React, HTML, Redux, DSA**
+## About Me
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<b>Motivated and efficient Full-stack web developer</b> with a history of education in B.Tech in Electronics and communication engineering and interested in coding. Working with MERN Stack and programming languages like JavaScript, TypeScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
+<br/>
+<br/>
+
+- 👀 I’m interested in *Coding*
+- :telescope: I’m currently working as *MERN Full Stack Developer*.
+- :seedling: I’m learning *MERN Stack and other web development tools*.
+- :dancers: I’m looking to collaborate on Linkedin.
+- :speech_balloon: Ask me about MERN related stuffs.
+- 📫 You can reach me at *ajaymaurya6798@gmail.com*
+- 👨‍💻 Visit my portfolio at:- *https://portfolio-ajay-maury.vercel.app/*- 
+<!-- - 🤔: I’m looking for help with developing AI skills.. -->
+<br/> <br/>
 
 - 📫 How to reach me **shravan.pm@yahoo.com**
 
