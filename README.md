@@ -5,7 +5,7 @@
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
 <img align = "right" alt = "coding" width = "400" src = "https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
-<p align="left">  Aspiring full-stack web developer and specialized in MERN stack. Passionate about writing clean, elegant, and efficient code using HTML, JavaScript, CSS, nodeJS. </p>
+<p align="left">  Dynamic full-stack web developer with strong proficiency in the MERN stack, adept at designing server-side APIs and maintaining seamless frontend components. Expert in Generative AI, quickly learning new technologies. Proven collaborative skills ensure superior project execution and development workflow enhancement. </p>
 
 ## About Me
 
